@@ -6,7 +6,7 @@
 
 - [Find Economic Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
 
-## Data Link Collections
+## Data Links Collection
 
 - Markus Eberhardt - [Data for Development](https://sites.google.com/site/medevecon/devecondata?authuser=0)
 - Rachel M. Heath - [Commonly Used Data Sources by Field](https://faculty.washington.edu/rmheath/datasources.html) 
