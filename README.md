@@ -2,7 +2,7 @@
 
 ---
 
-## Data in Econ paper
+## Data Search
 
 - [Find Economic Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
 
