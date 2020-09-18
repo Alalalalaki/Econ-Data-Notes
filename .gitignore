@@ -14,9 +14,13 @@ Thumbs.db
 
 # reference
 *reference/
+*ref/
 
-# notebook under progress
-*progress.ipynb
+# folds kept local
+_*/
+
+# notebook in progress
+_*.ipynb
 
 # binary files
 *.xls
