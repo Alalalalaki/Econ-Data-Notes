@@ -2,9 +2,10 @@
 
 ---
 
-## Data Search
+## Search Data in Studies
 
 - [Find Economic Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
+- [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/)
 
 ## Data Links Collection
 
@@ -17,6 +18,7 @@
 - Federico Huneeus - [Firm Behavior / Macro / Institutions / Trade / Politics](https://www.fedehuneeus.com/data)
 - Noel D. Johnson - [Sources for GIS Data](https://noeldjohnson.github.io/gis_links/)
 - Masayuki Kudamatsu - [Dev Econ Data](http://devecondata.blogspot.com/)
+- Leah Bevis - [Geospatial Data Repository](https://leahbevis.com/geospatial-data-repository/)
 
 ## Notes and Code on Data
 
