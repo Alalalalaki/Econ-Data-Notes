@@ -2,7 +2,7 @@
 
 ---
 
-## Everyone-Know Data Source
+## Everyone-Know Data
 
 - [OECD.Stat](https://fred.stlouisfed.org/)
 - [World Bank Open Data](https://data.worldbank.org/)
