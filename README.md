@@ -7,6 +7,7 @@
 - [OECD.Stat](https://fred.stlouisfed.org/)
 - [World Bank Open Data](https://data.worldbank.org/)
 - [FRED Economic Data](https://fred.stlouisfed.org/)
+- Collection: [Data Commons](https://datacommons.org/) / [DB.Nomics](https://db.nomics.world/)
 
 ## Search Data in Studies
 
@@ -15,7 +16,7 @@
 
 ## Data Links Collection
 
-- NBER - [Data Links](https://data.nber.org/data/) / [Other Data Collections](https://data.nber.org/links/data.html)
+- NBER - [Public Use Data Archive](https://www.nber.org/research/data)
 
 ## Data Links by Economists
 
@@ -25,6 +26,8 @@
 - Noel D. Johnson - [Sources for GIS Data](https://noeldjohnson.github.io/gis_links/)
 - Masayuki Kudamatsu - [Dev Econ Data](http://devecondata.blogspot.com/)
 - Leah Bevis - [Geospatial Data Repository](https://leahbevis.com/geospatial-data-repository/)
+- Jesse Perla - [A Grab Bag of Data Sources](https://www.jesseperla.com/post/data-sources/)
+- Clair Zhuqing Yang - [China Data (Contemporary & Historical)](https://sites.google.com/site/clairzyang/quantitative-database-on-china-studies?authuser=0)
 
 ## Notes and Code on Data
 

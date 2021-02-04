@@ -1,3 +1,5 @@
+## Literature
+
 borrowed from Pete Klenow's slide
 
 **Publicly available datasets**
@@ -15,4 +17,8 @@ borrowed from Pete Klenow's slide
 - Vietnamese firms, 2006–2010 (e.g., Bai, et al., 2017 Economic Journal)
 - Mexican establishments 1998, 2003 and 2008; (e.g., Hsieh and Klenow, 2014)
 - Orbis — firms in many countries (e.g., Gopinath et al., 2017 QJE)
+
+## EH Data
+
+- [United States Census of Manufactures, 1929-1935](https://www.icpsr.umich.edu/web/ICPSR/studies/37114)
 
