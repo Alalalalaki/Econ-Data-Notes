@@ -2,6 +2,7 @@
 
 ### Macro
 
+- [Maddison Historical Statistics](https://www.rug.nl/ggdc/historicaldevelopment/maddison/) / [Modern Times](https://www.rug.nl/ggdc/historicaldevelopment/modern-times/)
 - [NBER Macrohistory Database](https://www.nber.org/research/data/nber-macrohistory-database)
 
 
