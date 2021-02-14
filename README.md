@@ -28,6 +28,7 @@
 - Leah Bevis - [Geospatial Data Repository](https://leahbevis.com/geospatial-data-repository/)
 - Jesse Perla - [A Grab Bag of Data Sources](https://www.jesseperla.com/post/data-sources/)
 - Clair Zhuqing Yang - [China Data (Contemporary & Historical)](https://sites.google.com/site/clairzyang/quantitative-database-on-china-studies?authuser=0)
+- Amanda Gregg - [Historical Datasets: History of the Firm](https://amandagreggeconomics.com/historical-datasets-history-of-the-firm/)
 
 ## Notes and Code on Data
 
