@@ -9,7 +9,7 @@
 - [FRED Economic Data](https://fred.stlouisfed.org/)
 - Collection: [Data Commons](https://datacommons.org/) / [DB.Nomics](https://db.nomics.world/)
 
-## Search Data in Studies
+## Search Data in Papers
 
 - [Find Economic Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
 - [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/)
