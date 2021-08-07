@@ -23,4 +23,6 @@ see also READMEs in each country's folder
 ### Links By Locations
 
 - [Middle East data](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/re-counting-the-past.html)
+- [historical macroeconomic data for Spain](https://frdelpino.es/investigacion/en/category/01_social-sciences/01_spanish-economy/02_historical-perspective-1850-2018-spanish-economy/)
+- [The occupational structure of Britain 1379-1911](https://www.campop.geog.cam.ac.uk/research/occupations/)
 

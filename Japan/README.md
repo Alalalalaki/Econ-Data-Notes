@@ -1,7 +1,7 @@
 ## Data Provided by University
 
 - UTokyo - [Econ Data](http://www.lib.e.u-tokyo.ac.jp/)
-- Hit U - [Database](http://rcisss.ier.hit-u.ac.jp/Japanese/database/)
+- Hit U - [Database](http://rcisss.ier.hit-u.ac.jp/Japanese/database/) (another [link](https://d-infra.ier.hit-u.ac.jp/Japanese/ltes/))
   - [長期経済統計](http://rcisss.ier.hit-u.ac.jp/Japanese/database/long.html)
   - [アジア長期経済統計プロジェクト](http://www.ier.hit-u.ac.jp/COE/Japanese/index.html)
   - [Household Income micro data](http://rcisss.ier.hit-u.ac.jp/Japanese/database/special.html)
