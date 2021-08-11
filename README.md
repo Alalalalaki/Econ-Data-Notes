@@ -18,6 +18,7 @@
 
 - NBER - [Public Use Data Archive](https://www.nber.org/research/data)
 - [TheDiscreteChoiceDataBank](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)
+- EH.net - [Databases](https://eh.net/databases/)
 
 ## Data Links by Economists
 
@@ -31,6 +32,7 @@
 - Clair Zhuqing Yang - [China Data (Contemporary & Historical)](https://sites.google.com/site/clairzyang/quantitative-database-on-china-studies?authuser=0)
 - Amanda Gregg - [Historical Datasets: History of the Firm](https://amandagreggeconomics.com/historical-datasets-history-of-the-firm/)
 - OSIPP - [Data Source Platform](https://sites.google.com/view/osipp-dsc/home?authuser=0) 
+- Nuno Palma - [Historical datasets and resources](https://sites.google.com/site/npgpalma/references)
 
 ## Notes and Code on Data
 
