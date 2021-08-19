@@ -32,3 +32,8 @@ see also READMEs in each country's folder
 - [Middle East data](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/re-counting-the-past.html)
 - [historical macroeconomic data for Spain](https://frdelpino.es/investigacion/en/category/01_social-sciences/01_spanish-economy/02_historical-perspective-1850-2018-spanish-economy/)
 
+
+
+### Historical Database
+
+- [World-Historical Dataverse](https://dataverse.harvard.edu/dataverse/worldhistorical)
