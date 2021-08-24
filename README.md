@@ -13,7 +13,7 @@
 
 - [Find Economic Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
 - [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/)
-- [Harvard Dataverse](https://broadstreet.blog/2020/09/09/finding-historical-data-i/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
 
 ## Data Links Collection
 
