@@ -37,3 +37,16 @@ see also READMEs in each country's folder
 ### Historical Database
 
 - [World-Historical Dataverse](https://dataverse.harvard.edu/dataverse/worldhistorical)
+
+
+
+### Pre-History Data
+
+- Ola Olsson - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index) (and [more](https://sites.google.com/site/econolaols/data?authuser=0))
+
+
+
+### Miscellaneous Data
+
+- [Climate History Databases](http://www.climatehistory.net/projects)
+

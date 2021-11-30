@@ -3,6 +3,7 @@
 
 
 - [U.S. Patents](https://www.nber.org/research/data/us-patents)
+- [Google Patents Public Data](https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data?pli=1&project=alalalalaki-214013&folder=&organizationId=)
 
 ### Patent & Science
 
@@ -14,6 +15,7 @@
 
 - [American Inventors, 1870-1940](https://www.openicpsr.org/openicpsr/project/109970/version/V2/view)
 - [Patent City](https://github.com/Antoberge/patent_city)
+- [Mike Andrews: Historical Patent Data](https://sites.google.com/site/michaeljeffreyandrews/data?authuser=0)
 
 ### Data in Papers
 
