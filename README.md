@@ -32,7 +32,8 @@
 - Jesse Perla - [A Grab Bag of Data Sources](https://www.jesseperla.com/post/data-sources/)
 - Clair Zhuqing Yang - [China Data (Contemporary & Historical)](https://sites.google.com/site/clairzyang/quantitative-database-on-china-studies?authuser=0)
 - Amanda Gregg - [Historical Datasets: History of the Firm](https://amandagreggeconomics.com/historical-datasets-history-of-the-firm/)
-- OSIPP - [Data Source Platform](https://sites.google.com/view/osipp-dsc/home?authuser=0) 
+- OSIPP - [Social Science Data Source](https://sites.google.com/view/osipp-data/home)
+- Kyoto-U - [Database for Development Economics Research](https://sites.google.com/kyoto-u.ac.jp/database4der/home?authuser=0) 
 - Nuno Palma - [Historical datasets and resources](https://sites.google.com/site/npgpalma/references)
 
 ## Notes and Code on Data

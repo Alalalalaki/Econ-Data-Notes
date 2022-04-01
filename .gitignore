@@ -19,7 +19,8 @@ Thumbs.db
 # folds kept local
 _*/
 
-# notebook in progress
+# files kept local
+_*.md
 _*.ipynb
 
 # binary files
